@@ -1,0 +1,10 @@
+
+.page-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.left-page, .right-page {
+    width: 40%;
+    margin-bottom: 10px;
+}
