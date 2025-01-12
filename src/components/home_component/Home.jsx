@@ -31,7 +31,6 @@ function Home() {
             {user?.role === 'super_admin' &&
                 <Link to="/signup">Add new user</Link>
             }
-
             <button onClick={handleLogout}>Logout</button>
         </div>
     );
