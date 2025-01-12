@@ -33,6 +33,7 @@ function Home() {
             }
 
             <button onClick={handleLogout}>Logout</button>
+
         </div>
     );
 }
